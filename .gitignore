@@ -4,6 +4,8 @@
 *.sts
 *.mat
 
+/EMSeg/*
+
 # OS generated files #
 ######################
 .DS_Store
